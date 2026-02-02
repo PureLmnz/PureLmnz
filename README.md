@@ -32,4 +32,4 @@ penetration testing methodologies | Cloud security | Network architecture | Quan
 - GitHub: [@purelmnz](https://github.com/purelmnz)
 - Email: [ChrisVanguard11@gmail.com](mailto:ChrisVanguard11@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=purelmnz&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=purelmnz&show_icons=true)
