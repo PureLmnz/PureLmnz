@@ -32,5 +32,5 @@ penetration testing methodologies | Cloud security | Network architecture | Quan
 - GitHub: [@purelmnz](https://github.com/purelmnz)
 - Email: [ChrisVanguard11@gmail.com](mailto:ChrisVanguard11@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PureLmnz)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=PureLmnz)
 
